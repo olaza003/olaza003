@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @olaza003
-- 👀 I’m interested in creating games.
-- 🌱 I’m currently learning data structures for my future projects.
-- 💞️ I’m looking to collaborate on developers willing to create next generation games.
+- 👀 I’m just building things I'm interested in and learning everything I can
 - 📫 How to reach me ig: orlazaro or discord: kyosuke98#9665 
 
 <!---
